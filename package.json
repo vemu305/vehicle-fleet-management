@@ -1,0 +1,29 @@
+
+{
+  "name": "vehicle-fleet-management",
+  "version": "1.0.0",
+  "description": "SAP CAP Vehicle Fleet Management",
+  "private": true,
+  "dependencies": {
+    "@sap/cds": "^9",
+    "express": "^4"
+  },
+  "devDependencies": {
+    "@sap/cds-dk": "^9",
+    "better-sqlite3": "^11"
+  },
+  "scripts": {
+    "start": "cds-serve",
+    "watch": "cds watch"
+  },
+  "cds": {
+    "requires": {
+      "db": {
+        "kind": "sqlite",
+        "credentials": {
+          "url": "db.sqlite"
+        }
+      }
+    }
+  }
+}

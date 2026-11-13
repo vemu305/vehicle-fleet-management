@@ -1,0 +1,4 @@
+ID,maintenanceNumber,vehicle_ID,maintenanceType,description,startDate,expectedCompletionDate,actualCompletionDate,actualCost,status,remarks
+88888888-8888-8888-8888-888888888881,MNT-2026-000001,11111111-1111-1111-1111-111111111111,Preventive Service,Engine oil and filter replacement,2026-09-10,2026-09-11,2026-09-11,4500.00,Completed,Regular preventive maintenance completed
+88888888-8888-8888-8888-888888888882,MNT-2026-000002,22222222-2222-2222-2222-222222222222,Brake Inspection,Brake pad inspection and replacement,2026-10-20,2026-10-21,,,2500.00,Scheduled,Maintenance scheduled for next week
+88888888-8888-8888-8888-888888888883,MNT-2026-000003,11111111-1111-1111-1111-111111111111,Tire Service,Tire pressure and alignment inspection,2026-08-15,2026-08-15,2026-08-15,1800.00,Completed,Tire inspection completed
